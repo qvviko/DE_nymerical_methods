@@ -38,7 +38,6 @@ def runge_kutta(func, x0, y0, X, N_steps):
         k3 = h * func(x[i] + h / 2, y[i] + k2 / 2)
         k4 = h * func(x[i] + h, y[i] + k3)
         y.append(y[i] + (k1 + 2 * k2 + 2 * k3 + k4) / 6)
-    pass
 
 
 if __name__ == "__main__":
