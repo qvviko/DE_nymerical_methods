@@ -11,9 +11,5 @@ Else it can be viewed in [nbviewer](https://nbviewer.jupyter.org/github/qvviko/D
 
 Finally, you can try starting it on you own machine by installing [jupyter](https://jupyter.org/) and [other packages used](./requirements.txt).
 
-Packages used:
-Bokeh - plotting
-Numpy - computing
-
 I also exported [graphs of methods, global and local errors](./Graphs) into another folder if one wants to look only at them
 
