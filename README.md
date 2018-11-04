@@ -9,7 +9,7 @@ It can be viewed in [github](https://github.com/qvviko/DE_nymerical_methods/blob
 
 Else it can be viewed in [nbviewer](https://nbviewer.jupyter.org/github/qvviko/DE_nymerical_methods/blob/master/Differential%20Equaition%20Practicum.ipynb), [or just add any link at this website](https://nbviewer.jupyter.org/) (though it will not render jupyter's interact).
 
-Finally, you can try starting it on you own machine by installing [jupyter](https://jupyter.org/) and [other packages used](./requirements).
+Finally, you can try starting it on you own machine by installing [jupyter](https://jupyter.org/) and [other packages used](./requirements.txt).
 
 Packages used:
 Bokeh - plotting
